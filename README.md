@@ -18,7 +18,7 @@
 ## 📦 快速使用
 ### 1. 克隆项目
 ```bash
-git clone https://github.com/你的用户名/linuxmint-22.3-hibernate.git
+git clone https://github.com/PGonly/linuxmint-22.3-hibernate.git
 cd linuxmint-22.3-hibernate
 ```
 
